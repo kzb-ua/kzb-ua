@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **kamand.bagherian@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kamand-bagherian/](https://www.linkedin.com/in/kamand-bagherian/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
