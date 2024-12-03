@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AutoML**
 
-- 🌱 I’m currently learning **Kubernetes, Docker, LangGraph**
+- 🌱 I’m currently learning **ONNX, LangGraph, Kubernetes**
 
 - 📝 I regularly write articles on [https://medium.com/@ai-by-kam](https://medium.com/@ai-by-kam)
 
