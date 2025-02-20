@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kam</h1>
+<h1 align="center">Hi 👋, I'm Kamand</h1>
 <h3 align="center">Currently an ML Engineer @ Qlik - AutoML</h3>
 
 - 🔭 I’m currently working on **AutoML**
 
 - 🌱 I’m currently learning **ONNX, LangGraph, Kubernetes**
 
-- 📝 I regularly write articles on [https://medium.com/@ai-by-kam](https://medium.com/@ai-by-kam)
+- 📝 I occasionally write articles on [https://medium.com/@ai-by-kam](https://medium.com/@ai-by-kam)
 
-- 📫 How to reach me **kamand.bagherian@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
